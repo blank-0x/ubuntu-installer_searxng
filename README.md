@@ -3,7 +3,6 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Ubuntu-orange.svg)
 ![Docker](https://img.shields.io/badge/docker-supported-blue.svg)
-![CI](https://github.com/blank-0x/ubuntu-installer_searxng/actions/workflows/lint.yml/badge.svg)
 
 Automated deployment script for SearXNG using Docker on Ubuntu systems.
 
